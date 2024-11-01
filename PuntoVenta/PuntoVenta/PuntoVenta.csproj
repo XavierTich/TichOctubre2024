@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArticuloTich.cs" />
+    <Compile Include="ArticuloXavier.cs" />
     <Compile Include="IArticulo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
