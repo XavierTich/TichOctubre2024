@@ -14,6 +14,7 @@ namespace PuntoVenta
             ticket.listaArticulos.Add(new ArticuloTich());
             ticket.listaArticulos.Add(new ArticuloXavier());    
             ticket.Imprimir();
+            ticket.listaArticulos.Add(new ArticuloJose());
             Console.ReadKey();  
         }
     }
