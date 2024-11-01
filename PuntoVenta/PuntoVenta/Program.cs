@@ -13,6 +13,13 @@ namespace PuntoVenta
             Ticket ticket = new Ticket();
             ticket.listaArticulos.Add(new ArticuloTich());
             ticket.listaArticulos.Add(new ArticuloXavier());    
+            // ticket.listaArticulos.Add(new ArticuloXavier());    
+             // ticket.listaArticulos.Add(new ArticuloXavier());  
+             // ticket.listaArticulos.Add(new ArticuloXavier());  
+             // ticket.listaArticulos.Add(new ArticuloXavier());  
+             // ticket.listaArticulos.Add(new ArticuloXavier());  
+             // ticket.listaArticulos.Add(new ArticuloXavier());  
+            
             ticket.Imprimir();
             ticket.listaArticulos.Add(new ArticuloJose());
             Console.ReadKey();  
