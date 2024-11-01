@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArticuloNet.cs" />
     <Compile Include="ArticuloTich.cs" />
     <Compile Include="IArticulo.cs" />
     <Compile Include="Program.cs" />
